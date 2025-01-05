@@ -33,8 +33,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/flatlaf-2.1-20220110.120500-1.jar"/>
-	<classpathentry kind="lib" path="lib/flatlaf-extras-2.0-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="lib/spring-aop-5.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-aspects-5.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-beans-5.0.5.RELEASE.jar"/>
@@ -74,5 +72,8 @@
 	<classpathentry kind="lib" path="lib/oshi-core-5.8.6.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.32.jar"/>
 	<classpathentry kind="lib" path="lib/versioncompare-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/flatlaf-3.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/flatlaf-extras-3.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/jsvg-1.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
